@@ -8,7 +8,7 @@ Download the code and run it using
 ```bash
 python QR_Code_Scanner
 ```
-To close press q
+To close press 'q'
 
 ## Authors
 
